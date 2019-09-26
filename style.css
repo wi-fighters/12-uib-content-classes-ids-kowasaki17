@@ -1,0 +1,15 @@
+.list-item {
+    color: blue;
+}
+
+.heading {
+    color: red;
+}
+
+#small-heading {
+    background-color: green;
+}
+
+#title {
+    background-color: rgba(128, 0, 128, 0.562);
+}
