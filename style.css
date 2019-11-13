@@ -1,0 +1,15 @@
+.list-item{
+    color: rgb(128, 0, 128);
+}
+.heading{
+    color: rgb(255, 0, 0);
+}
+#list-single{
+    color: rgb(0, 0, 0);
+}
+#title{
+    background-color: rgba(137, 43, 226, 0.6);
+}
+#small-heading{
+    background-color: rgba(0, 128, 0, 0.9);
+}
